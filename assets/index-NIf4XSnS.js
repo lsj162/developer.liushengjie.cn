@@ -1,4 +1,4 @@
-import{r as es,j as Qi}from"./index-m5w-Rv1a.js";/**
+import{r as es,j as Qi}from"./index-tSnjGKHW.js";/**
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
