@@ -1,4 +1,4 @@
-import{r as tr,j as nr}from"./index-0YOxdGCb.js";/**
+import{r as tr,j as nr}from"./index-7R1ce2wo.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
